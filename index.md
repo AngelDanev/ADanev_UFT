@@ -40,10 +40,10 @@ The visibility of JLabel components is dynamically controlled and depends on sel
 
 The Plugin ALOImagePro is develloped in cooperation with Atanaska Bosakova-Ardenska [Link to Researchgate](https://www.researchgate.net/profile/Atanaska-Bosakova-Ardenska), Magdalina Kutryanska [Link to Researchgate](https://www.researchgate.net/profile/Magdalina-Kutryanska), Ivaylo Ivanov and Vladimir Karparov.
 
-For citation: 
+**For citation:** 
 
-"Danev A., A. Bosakova-Ardenska, M. Kutryanska, I. Ivanov, V. Karparov, (2020). 
+"_Danev A., A. Bosakova-Ardenska, M. Kutryanska, I. Ivanov, V. Karparov, (2020). 
 APPLICATION OF ARITHMETIC AND LOGIC OPERATIONS FOR OBJECTS EXTRACTION IN IMAGEJ,
 Scientific  Research  of  the  Union  of  Scientists  in  Bulgaria  –  Plovdiv,  
 series  B. Natural Sciences and Humanities, Vol ;;, ISSN: 1311- 9192 (Print), 
-ISSN:2534-9376 (On-line), VIIIth International  Conference Of Young  Scientists 2020."
+ISSN:2534-9376 (On-line), VIIIth International  Conference Of Young  Scientists 2020._"
