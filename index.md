@@ -2,10 +2,8 @@
 ## A useful ImageJ plugin for image processing using the basic arithmetic and logic operations implemented in ImageJ  
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 Scientific Publication: 
-[Link to another page](./another-page.html).
+[Link to another page](https://www.researchgate.net/publication/349213848_APPLICATION_OF_ARITHMETIC_AND_LOGIC_OPERATIONS_FOR_OBJECTS_EXTRACTION_IN_IMAGEJ).
 
 # Plugin Introduction
 Arithmetic and logic operations are simple images processing operations which involve two or more images. There are a lot of applications of arithmetic and logic operations such as motion detection, objects extraction and etc. ALOImagePro (Arithmetic Logical Operations for Images Processing) application is developed as Java plugin for the open-source software ImageJ. The plugin has one main window which contains one or twelve images which are results of arithmetic and logic operations performed on two images, selected by the user. The plugin is useful for easy testing of arithmetic and logic operations.
