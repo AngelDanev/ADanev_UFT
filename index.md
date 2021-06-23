@@ -37,3 +37,4 @@ The main window of the plugin contains several elements:
 
 ![image](https://user-images.githubusercontent.com/86291178/123096192-81beff80-d437-11eb-810a-c7e4b8ce9bd4.png)
 
+The Plugin ALOImagePro is develloped in cooperation with Atanaska Bosakova-Ardenska (https://www.researchgate.net/profile/Atanaska-Bosakova-Ardenska), Magdalina Kutryanska and Vladimir Karparov
