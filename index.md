@@ -14,113 +14,25 @@ Arithmetic and logic operations are simple images processing operations which in
 
 ## Plugin Instalation
 
-1) Download the ALOImagePro_.java file and save it on your PC. 
-2) Open ImageJ program, select Plugins menu and click on the Install... option.
-3) An "Install Plugin, Macro and Script..." window opened. 
-4) Browse to the folder in which ALOImagePro_.java is saved.
-5) Select the file and click "Open". Another window appears, click "Save".
-6) The plugin ALOImagePro is now inatalled and ready to use.
+1. Download the ALOImagePro_.java file and save it on your PC. 
+2. Open ImageJ program, select Plugins menu and click on the Install... option.
+3. An "Install Plugin, Macro and Script..." window opened. 
+4. Browse to the folder in which ALOImagePro_.java is saved.
+5. Select the file and click "Open". Another window appears, click "Save".
+6. The plugin ALOImagePro is now inatalled and ready to use.
 
 ## Plugin Interface and Usage
 The graphical user interface of the plugin is shown on the image below.
 ![image](https://user-images.githubusercontent.com/86291178/123095676-fba2b900-d436-11eb-84f0-e4e4f32db950.png)
 
 The main window of the plugin contains several elements: 
-•	Choice button - it contains all of the arithmetic and logic operations (twelve in total) with additional “Try all” option;
-•	Button “Make Calculation” – it allows the user to see the result of the chosen operation;
-•	Button “Save” – it saves the result image;
-•	Twelve JLabels – they display the result image(s) depending on the selected operation and underneath each one a description of the type of the operation has been placed;
-•	JPanel - containing all of the above JLabel components.
+*	Choice button - it contains all of the arithmetic and logic operations (twelve in total) with additional “Try all” option;
+*	Button “Make Calculation” – it allows the user to see the result of the chosen operation;
+*	Button “Save” – it saves the result image;
+*	Twelve JLabels – they display the result image(s) depending on the selected operation and underneath each one a description of the type of the operation has been placed;
+*	JPanel - containing all of the above JLabel components.
 
  The visibility of JLabel components is dynamically controlled and depends on selected type of processing. When one operation is chosen then only one JLabel component is visible in order to present result of image processing through selected arithmetic or logic operation and all other JLabel components are hidden. If the “Try all” option is selected then all twelve JLabel components are visible. The image below shows the workflow of ALOImagePro plugin. First step is to launch ImageJ program. Then it is necessary to open two images for processing. Next step is to start ALOImagePro plugin which is located on the “Plugins” menu of ImageJ’s menu bar. The main window of ALOImagePro plugin has two buttons and one choice component. The choice component is for operation choosing and the button “Make Calculation” apply selected operation(s) to the opened images. The second button (Save) is allowed only when one operation is selected. It could be used for result image save.
 
 ![image](https://user-images.githubusercontent.com/86291178/123096192-81beff80-d437-11eb-810a-c7e4b8ce9bd4.png)
 
-### Header 3
-
-
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
