@@ -12,7 +12,7 @@ Arithmetic and logic operations are simple images processing operations which in
 
 ## Plugin Instalation
 
-1. Download the ALOImagePro_.java file and save it on your PC. 
+1. [Download](https://github.com/AngelDanev/uft-cst.github.io) the ALOImagePro_.java file and save it on your PC. 
 2. Open ImageJ program, select Plugins menu and click on the Install... option.
 3. An "Install Plugin, Macro and Script..." window opened. 
 4. Browse to the folder in which ALOImagePro_.java is saved.
@@ -38,4 +38,4 @@ The visibility of JLabel components is dynamically controlled and depends on sel
 
 ![image](https://user-images.githubusercontent.com/86291178/123096192-81beff80-d437-11eb-810a-c7e4b8ce9bd4.png)
 
-The Plugin ALOImagePro is develloped in cooperation with Atanaska Bosakova-Ardenska [Link to Researchgate](https://www.researchgate.net/profile/Atanaska-Bosakova-Ardenska), Magdalina Kutryanska and Vladimir Karparov
+The Plugin ALOImagePro is develloped in cooperation with Atanaska Bosakova-Ardenska [Link to Researchgate](https://www.researchgate.net/profile/Atanaska-Bosakova-Ardenska), Magdalina Kutryanska [Link to Researchgate](https://www.researchgate.net/profile/Magdalina-Kutryanska), Ivaylo Ivanov and Vladimir Karparov
