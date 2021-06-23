@@ -1,7 +1,16 @@
+/*
+The plugin is developed in University of Food Technologies - Plovdiv, Bulgaria.
+A scientific paper is available on: 
+https://www.researchgate.net/publication/349213848_APPLICATION_OF_ARITHMETIC_AND_LOGIC_OPERATIONS_FOR_OBJECTS_EXTRACTION_IN_IMAGEJ/stats
+For citation: 
+Danev A., A. Bosakova-Ardenska, M. Kutryanska, I. Ivanov, V. Karparov, (2020). 
+APPLICATION OF ARITHMETIC AND LOGIC OPERATIONS FOR OBJECTS EXTRACTION IN IMAGEJ,
+Scientific  Research  of  the  Union  of  Scientists  in  Bulgaria  –  Plovdiv,  
+series  B. Natural Sciences and Humanities, Vol ;;, ISSN: 1311- 9192 (Print), 
+ISSN:2534-9376 (On-line), VIIIth International  Conference Of Young  Scientists 2020. 
+*/
 import javax.swing.JPanel;
-
 import java.io.*;
-
 import ij.IJ;
 import ij.ImagePlus;
 import ij.ImageStack;
@@ -9,7 +18,6 @@ import ij.WindowManager;
 import ij.plugin.ImageCalculator;
 import ij.plugin.PlugIn;
 import ij.process.ImageProcessor;
-
 import java.awt.FlowLayout;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
