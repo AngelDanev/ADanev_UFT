@@ -43,6 +43,6 @@ The Plugin ALOImagePro is develloped in cooperation with Atanaska Bosakova-Arden
 **For citation:** 
 "_Danev A., A. Bosakova-Ardenska, M. Kutryanska, I. Ivanov, V. Karparov, (2020). 
 APPLICATION OF ARITHMETIC AND LOGIC OPERATIONS FOR OBJECTS EXTRACTION IN IMAGEJ,
-Scientific  Research  of  the  Union  of  Scientists  in  Bulgaria  –  Plovdiv,  
+Scientific  Works  of  the  Union  of  Scientists  in  Bulgaria  –  Plovdiv,  
 series  B. Natural Sciences and Humanities, Vol XX, ISSN: 1311- 9192 (Print), 
 ISSN:2534-9376 (On-line), VIIIth International  Conference Of Young  Scientists 2020._"
